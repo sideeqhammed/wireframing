@@ -21,3 +21,12 @@ Wireframing is a crucial step in the design process, serving as a blueprint or s
 - High-Fidelity Wireframes: This takes what you put together in the low fidelity stage and sprinkles in more of the detailed elements. High fidelity wireframes include visual markers and branding signifiers like colors, graphics, and font style. They are used after low-fidelity wireframes.
 
 The [AirBnB clone project](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2&t=sTAeZGS3VrBemZUd-0) wireframe here is a type of high-fidelity wireframe.
+
+## Wireframing Tools
+Popuar wireframing tools include:
+- Figma
+- Sketch
+- Adobe XD
+- Balsamiq
+- Miro e.t.c.
+Figma is a recommended wireframing tool, it is a cloud-based design tool known for real-time collaboration, allowing multiple users to design and edit simultaneously. Key features include vector editing, prototyping, design systems (with reusable components), and easy developer handoff via inspect tools. It's especially useful for wireframing due to its intuitive interface, built-in UI kits, and ability to quickly iterate and share feedback.
