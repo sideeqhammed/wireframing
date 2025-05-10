@@ -16,6 +16,8 @@ Wireframing is a crucial step in the design process, serving as a blueprint or s
 - Content Placement: Indicates where text, images, and other content will be positioned.
 - Functionality: Outlines key functionalities and interactions.
 
-### Types of Wireframes
-- Low-Fidelity Wireframes: Simple sketches or basic digital layouts focusing on overall structure and functionality without detailed design.
-- High-Fidelity Wireframes: More detailed and refined versions, often closer to the final design, including more specific layout and design elements.
+## Types of Wireframes
+- Low-Fidelity Wireframes: This is the most basic type of wireframing. It’s so simplistic, that paper and pen will still suffice as a way to represent your ideas. They are done in grayscale with a focus on layout and high-level interactions. UI elements and content are represented by basic shapes like squares, triangles, circles, and lines. They are used early in the design process after on-the-fly hand-drawn sketches.
+- High-Fidelity Wireframes: This takes what you put together in the low fidelity stage and sprinkles in more of the detailed elements. High fidelity wireframes include visual markers and branding signifiers like colors, graphics, and font style. They are used after low-fidelity wireframes.
+
+The [AirBnB clone project](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2&t=sTAeZGS3VrBemZUd-0) wireframe here is a type of high-fidelity wireframe.
