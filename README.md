@@ -37,3 +37,5 @@ Figma is a recommended wireframing tool, it is a cloud-based design tool known f
 - Saves Time and Cost – Early identification of issues in wireframes prevents expensive changes during development.
 - Enhances User Experience – Wireframes focus on layout and flow, helping create intuitive and user-friendly interfaces.
 - Guides Development – They serve as a blueprint for developers, streamlining coding and reducing confusion.
+
+Wireframes guide the design process by providing a visual roadmap of an application's layout, structure, and user interactions. This helps designers make informed decisions about spacing, hierarchy, and functionality before committing to detailed visuals or code. They also facilitate communication by serving as a common reference point, allowing team members—designers, developers, and stakeholders—to give and receive feedback clearly and early in the project.
