@@ -29,4 +29,11 @@ Popuar wireframing tools include:
 - Adobe XD
 - Balsamiq
 - Miro e.t.c.
+
 Figma is a recommended wireframing tool, it is a cloud-based design tool known for real-time collaboration, allowing multiple users to design and edit simultaneously. Key features include vector editing, prototyping, design systems (with reusable components), and easy developer handoff via inspect tools. It's especially useful for wireframing due to its intuitive interface, built-in UI kits, and ability to quickly iterate and share feedback.
+
+## Benefits of Wireframing in Software Development
+- Clarifies Requirements – Wireframes visually represent features, helping developers understand what needs to be built.
+- Saves Time and Cost – Early identification of issues in wireframes prevents expensive changes during development.
+- Enhances User Experience – Wireframes focus on layout and flow, helping create intuitive and user-friendly interfaces.
+- Guides Development – They serve as a blueprint for developers, streamlining coding and reducing confusion.
